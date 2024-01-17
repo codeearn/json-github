@@ -8,5 +8,5 @@ do
   echo https://github.com/$i;
 done
 ```
-Gaurav Sablok
+Gaurav Sablok \
 Universität Potsdam, Germany
